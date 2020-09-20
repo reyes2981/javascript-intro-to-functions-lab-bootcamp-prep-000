@@ -2,7 +2,7 @@ function shout(string) {
   return string.toUpperCase()
 }
 
-function shout(string) {
+function shout("I can't hear you!") {
   return string.toLowerCase()
 }
 
